@@ -12,6 +12,6 @@ Train a Linear Regression model
 Plot Actual vs Predicted values
 Display model performance metrics (MSE and R2 score)
 
-How to Use
+How to Use: 
 Run the code in Python (make sure scikit-learn and matplotlib are installed).
 The output will show the training MSE, R2 score, and a scatter plot comparing actual and predicted values.
