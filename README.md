@@ -5,6 +5,7 @@ It applies a Linear Regression model to predict Sepal Width based on Sepal Lengt
 
 Purpose
 Goal: To understand and visualize the relationship between two features (Sepal Length and Sepal Width) using Linear Regression.
+
 Main Features:
 Load data from the Iris dataset
 Train a Linear Regression model
